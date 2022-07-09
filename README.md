@@ -1,6 +1,6 @@
 # Path Finding Algorithm in a 2D grid
 ## Usage:
-There are two mode to select from:`"Phase1"` and `"Phase2"`:
+There are two modes to select from:`"Phase1"` and `"Phase2"`:
 
 Example:
 ```
