@@ -1,4 +1,4 @@
-# Path Finding Algorithm in a 2D grid
+# Shortest Path Finding Algorithm in a 2D grid
 ## Usage:
 There are two modes to select from:`"Phase1"` and `"Phase2"`:
 
